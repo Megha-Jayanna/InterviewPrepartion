@@ -1,4 +1,4 @@
-package LeetCodePractice.Day2;
+package LeetCodePractice.Easy;
 
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {

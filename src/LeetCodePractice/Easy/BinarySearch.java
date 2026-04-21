@@ -1,4 +1,4 @@
-package LeetCodePractice.Day1;
+package LeetCodePractice.Easy;
 
 public class BinarySearch {
         public int search(int[] nums, int target) {

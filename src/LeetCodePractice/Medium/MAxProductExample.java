@@ -1,4 +1,4 @@
-package LeetCodePractice.Day1;
+package LeetCodePractice.Medium;
 
 public class MAxProductExample {
         public int maxProduct(int[] nums) {

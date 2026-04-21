@@ -1,4 +1,4 @@
-package LeetCodePractice.Day1;
+package LeetCodePractice.Easy;
 
 public class PalindromeCheck {
     public boolean palindromeCheck(int x){
