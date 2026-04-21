@@ -1,4 +1,4 @@
-package LeetCodePractice.Day1;
+package LeetCodePractice.Easy;
 
 public class BuySellstock {
     public int maxProfit(int[] prices) {

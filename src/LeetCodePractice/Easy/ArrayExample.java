@@ -1,4 +1,4 @@
-package LeetCodePractice.Day1;
+package LeetCodePractice.Easy;
 
 public class ArrayExample {
 public int MaxASubArray(int[] nums) {
